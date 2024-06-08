@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Mockup Designer",
+    "company": "Creative Agency",
+    "location": "New York, NY",
+    "description": "We are looking for a creative mockup designer to join our team.",
+    "image": "https://example.com/image1.jpg",
+    "applyLink": "https://example.com/apply1",
+    "tags": ["Design", "Mockup", "Creative"]
+  },
+  {
+    "id": 2,
+    "title": "Logo Designer",
+    "company": "Brand Studio",
+    "location": "San Francisco, CA",
+    "description": "Join our team as a logo designer and help create stunning logos for our clients.",
+    "image": "https://example.com/image2.jpg",
+    "applyLink": "https://example.com/apply2",
+    "tags": ["Design", "Logo", "Branding"]
+  },
+  {
+    "id": 3,
+    "title": "Web Developer",
+    "company": "Tech Solutions",
+    "location": "Remote",
+    "description": "We are hiring a web developer with experience in React and Node.js.",
+    "image": "https://example.com/image3.jpg",
+    "applyLink": "https://example.com/apply3",
+    "tags": ["Development", "Web", "Remote"]
+  }
+]

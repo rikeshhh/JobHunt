@@ -1,14 +1,11 @@
-import { Outlet } from "react-router-dom";
 import { Footer } from "./footer/footer";
 import { Header } from "./header/header";
-import { HeroSection } from "../pages/heroSection";
-
+import { Outlet } from "react-router-dom";
 export const Layout = () => {
   return (
     <div>
       <Header />
-      <main>
-        <HeroSection />
+      <main className=" text-base sm:text-lg md:text-xl lg:text-2xl ">
         <Outlet />
       </main>
       <Footer />
