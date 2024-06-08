@@ -2,31 +2,121 @@
   {
     "id": 1,
     "title": "Mockup Designer",
-    "company": "Creative Agency",
-    "location": "New York, NY",
-    "description": "We are looking for a creative mockup designer to join our team.",
-    "image": "https://example.com/image1.jpg",
-    "applyLink": "https://example.com/apply1",
-    "tags": ["Design", "Mockup", "Creative"]
+    "company": {
+      "name": "Creative Agency",
+      "logo": "https://example.com/logo1.jpg",
+      "location": "New York, NY"
+    },
+    "description": "We are looking for a creative mockup designer to join our team. You will be responsible for creating mockups and prototypes for our projects.",
+    "requirements": {
+      "experience": "2+ years of experience in design",
+      "skills": ["Adobe XD", "Sketch", "Figma"],
+      "education": "Bachelor's degree in Design or related field"
+    },
+    "salary": "$50,000 - $70,000 per year",
+    "jobType": "Full-time",
+    "benefits": ["Health Insurance", "401(k) Plan", "Paid Time Off"],
+    "applicationDetails": {
+      "applyLink": "https://example.com/apply1",
+      "contactEmail": "jobs@example.com"
+    },
+    "tags": ["Design", "Mockup", "Creative"],
+    "image": "https://example.com/image1.jpg"
   },
   {
     "id": 2,
     "title": "Logo Designer",
-    "company": "Brand Studio",
-    "location": "San Francisco, CA",
-    "description": "Join our team as a logo designer and help create stunning logos for our clients.",
-    "image": "https://example.com/image2.jpg",
-    "applyLink": "https://example.com/apply2",
-    "tags": ["Design", "Logo", "Branding"]
+    "company": {
+      "name": "Brand Studio",
+      "logo": "https://example.com/logo2.jpg",
+      "location": "San Francisco, CA"
+    },
+    "description": "Join our team as a logo designer and help create stunning logos for our clients. You will collaborate with clients to understand their needs and deliver high-quality logo designs.",
+    "requirements": {
+      "experience": "3+ years of experience in logo design",
+      "skills": ["Illustrator", "Photoshop", "CorelDRAW"],
+      "education": "Bachelor's degree in Graphic Design or related field"
+    },
+    "salary": "$60,000 - $80,000 per year",
+    "jobType": "Contract",
+    "benefits": ["Remote Work", "Flexible Hours"],
+    "applicationDetails": {
+      "applyLink": "https://example.com/apply2",
+      "contactEmail": "careers@brandstudio.com"
+    },
+    "tags": ["Design", "Logo", "Branding"],
+    "image": "https://example.com/image2.jpg"
   },
   {
     "id": 3,
     "title": "Web Developer",
-    "company": "Tech Solutions",
-    "location": "Remote",
-    "description": "We are hiring a web developer with experience in React and Node.js.",
-    "image": "https://example.com/image3.jpg",
-    "applyLink": "https://example.com/apply3",
-    "tags": ["Development", "Web", "Remote"]
+    "company": {
+      "name": "Tech Solutions",
+      "logo": "https://example.com/logo3.jpg",
+      "location": "Remote"
+    },
+    "description": "We are hiring a web developer with experience in React and Node.js. You will work on developing and maintaining our web applications.",
+    "requirements": {
+      "experience": "4+ years of experience in web development",
+      "skills": ["React", "Node.js", "JavaScript", "HTML", "CSS"],
+      "education": "Bachelor's degree in Computer Science or related field"
+    },
+    "salary": "$80,000 - $100,000 per year",
+    "jobType": "Full-time",
+    "benefits": ["Health Insurance", "Remote Work", "Gym Membership"],
+    "applicationDetails": {
+      "applyLink": "https://example.com/apply3",
+      "contactEmail": "hr@techsolutions.com"
+    },
+    "tags": ["Development", "Web", "Remote"],
+    "image": "https://example.com/image3.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Product Manager",
+    "company": {
+      "name": "Innovate Corp",
+      "logo": "https://example.com/logo4.jpg",
+      "location": "Austin, TX"
+    },
+    "description": "As a Product Manager at Innovate Corp, you will oversee the development and delivery of our products. You will work closely with cross-functional teams to define product requirements and ensure successful product launches.",
+    "requirements": {
+      "experience": "5+ years of experience in product management",
+      "skills": ["Project Management", "Agile Methodologies", "Communication"],
+      "education": "MBA or equivalent experience"
+    },
+    "salary": "$90,000 - $120,000 per year",
+    "jobType": "Full-time",
+    "benefits": ["Stock Options", "Health Insurance", "Paid Time Off"],
+    "applicationDetails": {
+      "applyLink": "https://example.com/apply4",
+      "contactEmail": "jobs@innovatecorp.com"
+    },
+    "tags": ["Management", "Product", "Innovation"],
+    "image": "https://example.com/image4.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Data Scientist",
+    "company": {
+      "name": "Data Insights",
+      "logo": "https://example.com/logo5.jpg",
+      "location": "Chicago, IL"
+    },
+    "description": "We are seeking a data scientist to analyze large datasets and provide insights to drive business decisions. You should have experience with machine learning and statistical analysis.",
+    "requirements": {
+      "experience": "3+ years of experience in data science",
+      "skills": ["Python", "R", "SQL", "Machine Learning"],
+      "education": "Master's degree in Data Science or related field"
+    },
+    "salary": "$100,000 - $130,000 per year",
+    "jobType": "Full-time",
+    "benefits": ["Health Insurance", "401(k) Plan", "Education Reimbursement"],
+    "applicationDetails": {
+      "applyLink": "https://example.com/apply5",
+      "contactEmail": "careers@datainsights.com"
+    },
+    "tags": ["Data Science", "Analytics", "Machine Learning"],
+    "image": "https://example.com/image5.jpg"
   }
 ]
